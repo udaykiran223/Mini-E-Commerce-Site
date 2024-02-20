@@ -1,6 +1,6 @@
 
 function routingToReg(){
-    window.location.href="./dashBoard.html"
+    window.location.href="/dashBoard.html"
 }
 
 // loginVal(email,password);
